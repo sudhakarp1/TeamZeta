@@ -1,7 +1,4 @@
 #include <iostream>
-
-#include<string>
-
 using namespace std;
 
 
@@ -39,7 +36,7 @@ void add(int n)
     
 {
         
-cout<<"enter array elements"<<endl;
+cout<<"array elements are:"<<endl;
         
 int j=n;
         
